@@ -1,7 +1,3 @@
-# Scripts
-Tampermonkey no chrome
-
-
 # 🤖 PHGBR Chat & Robust Agent Layer
 
 Este repositório contém um **Userscript avançado (Tampermonkey)** que atua como um cliente de IA multi-provedor (OpenRouter, DeepSeek, Gemini, HuggingFace, Mistral, etc.) injetado nativamente no navegador através de um ambiente isolado por **Shadow DOM**.
