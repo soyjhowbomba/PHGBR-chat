@@ -26,5 +26,5 @@ Diferente de interfaces comuns que exigem o reenvio de arquivos inteiros, este s
 
 ## 🛠️ Como Instalar (Uso Pessoal)
 1. Instale a extensão **Tampermonkey** no seu navegador.
-2. Crie um novo script e cole o conteúdo do arquivo `phgbr_chat_agent.user.js` contido neste repositório.
+2. Crie um novo script e cole o conteúdo do arquivo `PHGBR chat.js` contido neste repositório.
 3. Acesse qualquer página da web, configure suas chaves de API na aba **Config** do painel e salve.
